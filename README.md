@@ -1,0 +1,2 @@
+# Hearthbook
+Hearthstone Collection Manager
